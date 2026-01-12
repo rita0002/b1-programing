@@ -1,4 +1,4 @@
-# Exercise 2: Student Grade Analyzer 
+# Exercise 2: Student Grade Analyzer v1.0
 # This program stores student names and scores, calculates statistics, finds unique scores, and counts how many students got each score.
 
 print("=== STUDENT GRADE ANALYZER ===\n")
@@ -89,3 +89,4 @@ for score in sorted(grade_distribution.keys(), reverse=True):
     count = grade_distribution[score]
     student_word = "student" if count == 1 else "students"
     print(f"Score {score}: {count} {student_word}")
+
