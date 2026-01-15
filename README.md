@@ -1,10 +1,7 @@
 # b1-programing
-Python lab exercises for business applications
-
-# 🐍 Python Lab Exercises Repository
+# 🐍 Python Lab Exercises Repository for business applications
 
 [![Python Version](https://img.shields.io/badge/python-3.12-blue)](https://www.python.org/downloads/)  
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)  
 
 This repository contains my completed Python lab exercises from **Weeks 1–11**, including all tasks and solutions. Each exercise demonstrates practical Python programming concepts such as data handling, OOP, file operations, security practices, and web data collection.
 
@@ -71,7 +68,4 @@ This repository contains my completed Python lab exercises from **Weeks 1–11**
 ---
 
 ## 🛠️ Setup Instructions
-1. **Clone the repository**
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+
