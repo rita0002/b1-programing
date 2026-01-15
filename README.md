@@ -13,9 +13,9 @@ This repository contains my completed Python lab exercises from **Weeks 1–11**
 ## 📚 Week-wise Exercises
 
 ### Week 1 & 2
-**Hello World Program**  
-**Python Basics Task 3**  
-**Business Calculator Task 4**
+- **Hello World Program**  
+- **Python Basics Task 3**  
+- **Business Calculator Task 4**
 
 ### Week 3
 - **Lab Exercise 1:** Grade Calculator  
