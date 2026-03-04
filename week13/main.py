@@ -9,10 +9,12 @@ app = FastAPI(
 
 app.include_router(users.router, prefix="/users", tags=["Users"])
 
+
 @app.get("/")
-def root():
+def health_check():
     return {"status": "healthy", "message": "API is running"}
 
+
 @app.get("/health")
-def health():
+def health_details():
     return {"status": "healthy", "service": "user-management", "version": "1.0.0"}
