@@ -53,6 +53,12 @@ This repository contains my completed Python lab exercises from **Weeks 1–13**
 ### Week 11
 - **Lab Exercise:** EU Capitals Weather Data Collection
 
+### Week 12
+- **Lab Exercise:** FastAPI User CRUD API
+
+### Week 13
+- **Lab Exercise:** FastAPI with Virtual Environment & User Routes
+
 ---
 
 ## ⚙️ Features
