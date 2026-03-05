@@ -3,7 +3,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.12-blue)](https://www.python.org/downloads/)  
 
-This repository contains my completed Python lab exercises from **Weeks 1–15**, including all tasks and solutions. Each exercise demonstrates practical Python programming concepts such as data handling, OOP, file operations, security practices, and web data collection.
+This repository contains my completed Python lab exercises from **Weeks 1–13**, including all tasks and solutions. Each exercise demonstrates practical Python programming concepts such as data handling, OOP, file operations, security practices, and web data collection.
 
 ---
 
